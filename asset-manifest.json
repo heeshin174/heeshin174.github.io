@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.983e9c77.css",
+    "main.js": "/static/js/main.47ffefe0.js",
+    "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
+    "static/media/Portfolio.png": "/static/media/Portfolio.f654282319b37160c8b5.png",
+    "static/media/Cardealer.png": "/static/media/Cardealer.93af775a06723cd95ae6.png",
+    "static/media/passportphoto.jpg": "/static/media/passportphoto.3eaeee7154a343887e0d.jpg",
+    "static/media/DroneFarm.png": "/static/media/DroneFarm.dc8aef649b742127dc6c.png",
+    "static/media/HomeIot.png": "/static/media/HomeIot.8426ce5b56a7507bf73b.png",
+    "static/media/logo2.png": "/static/media/logo2.10488c5675d892e13f04.png",
+    "static/media/istockphoto-1032782930-640x640.jpg": "/static/media/istockphoto-1032782930-640x640.1671e14c69b3eb694078.jpg",
+    "static/media/test.pdf": "/static/media/test.91bc2ee9b0fadde0de43.pdf",
+    "index.html": "/index.html",
+    "main.983e9c77.css.map": "/static/css/main.983e9c77.css.map",
+    "main.47ffefe0.js.map": "/static/js/main.47ffefe0.js.map",
+    "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.983e9c77.css",
+    "static/js/main.47ffefe0.js"
+  ]
+}
