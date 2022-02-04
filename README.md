@@ -2,6 +2,10 @@
 
 This is my personal portfolio web site.
 
+[Live Server](https://heeshin174.github.io/)
+
+[Source code is avaliable here](https://github.com/heeshin174/personal_portfolio)
+
 ## Project Requirements
 
 This project was built with these technologies:
